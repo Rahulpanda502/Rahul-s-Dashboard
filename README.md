@@ -12,6 +12,4 @@ As part of the course, I followed step-by-step methods to build my own dashboard
 
 💡 You can view the dashboard I created here
 
-Today, data-driven decision-making is more important than ever, and knowing tools like Power BI is a key skill for this.
-
-!(Dashboard preview)(https://github.com/Rahulpanda502/Rahul-s-Dashboard/blob/main/Snapshot%20of%20dashboards.png)
+(https://github.com/Rahulpanda502/Rahul-s-Dashboard/blob/main/Snapshot%20of%20dashboards.png)
